@@ -1,0 +1,57 @@
+#navBar{
+  background-color: rgba(1, 1, 1,0.7) !important;
+  height: 100px;
+  font-size: 30px;
+}
+
+#calque{
+  position: absolute;
+  top: 1px;
+  background-color: rgba(1, 1, 1,0.3) !important;
+  width: 100%;
+  height: 600px;
+}
+
+#backgroundScreen{
+  background: url("../ressources/investir.jpg");
+  background-repeat: no-repeat;
+  background-size: cover ;
+  background-position: 25% 25%;
+  width: 100%;
+  height: 600px;
+}
+
+#contentBackgroundScreen{
+  /* background-color: rgba(1, 1, 1,0.3) !important; */
+  width: 35%;
+  height: 10%;
+  position: relative;
+  top: 80%;
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+#contentBackgroundScreen p{
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+
+#jumboreason{
+  padding: 5%;
+  text-align: center;
+/* background-color: black !important; */
+}
+
+#jumboreason p{
+  padding-bottom: 3%;
+}
+
+main{
+  padding: 5%;
+}
+
+#footer{
+  background-color: rgba(1, 1, 1,0.7) !important;
+}
